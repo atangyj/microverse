@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="540c43f4-7a8d-450e-8c5a-249fdf4ec5d3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/indexx.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -109,22 +107,6 @@
             <path>
               <item name="microverse" type="b2602c69:ProjectViewProjectNode" />
               <item name="microverse" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microverse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microverse" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap.css" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="microverse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microverse" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microverse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microverse" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -169,12 +151,12 @@
       <option name="presentableId" value="Default" />
       <updated>1540824642360</updated>
       <workItem from="1540824644358" duration="4372000" />
-      <workItem from="1540895962443" duration="10382000" />
+      <workItem from="1540895962443" duration="10932000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14754000" />
+    <option name="totallyTimeSpent" value="15304000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="687" y="0" width="1366" height="732" extended-state="6" />
