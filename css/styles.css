@@ -23,10 +23,14 @@ body {
     color: #ffffff;
     font-family: Montserrat;
 }
-.jumbotron_bg {
+.jumbotron{
     background-image: url("../img/color-mask.png");
-    background-image: url("../img/kris-mikael-krister-556573-unsplash.png");
-    background-size:     cover;
+    background-size:     cover !important;
+    background-repeat:   no-repeat !important;
+}
+.jumbotron_bg {
+    background-image: url("../img/kris-mikael-krister-556573-unsplash.png") !important;
+    background-size:     cover !important;
     background-repeat:   no-repeat;
     background-position: top;
 }
