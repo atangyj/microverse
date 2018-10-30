@@ -73,3 +73,8 @@ body {
     letter-spacing: normal !important;
     color: #ffffff !important;
 }
+.vl {
+    width: 2px;
+    height: 118px;
+    border: solid 2px #dfe4e8;
+}
